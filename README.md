@@ -10,5 +10,5 @@ Este repositório contém os testes criados durante o curso ["Testing with Pytes
 - Execução de testes com a ferramenta de linha de comando `pytest`
 - Exercício de identificação e correção de erros com base nos resultados dos testes
 
-## Conquista
+## 🏅 Conquista
 [Testing With Pytest](https://learn.microsoft.com/api/achievements/share/en-us/SidneyRibeiroSperandio-4393/JU7XM89T?sharingId=599AD29DF2F5616)
